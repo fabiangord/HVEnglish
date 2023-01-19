@@ -1,0 +1,80 @@
+.nombrep{
+    font-size: 40px;
+    margin: 0 auto;
+    font-weight: bold;
+}
+.subtitulo{
+    font-size: 20px;
+    font-weight: bold;
+}
+.teal{
+    padding-top: 10px!important;
+    padding-bottom: 10px!important;
+}
+.pd-1{
+    font-size: 25px;
+    font-weight: bold;
+   
+}
+.pt-10{
+    padding-top: 0px!important;
+   
+}
+.skills{
+    margin-top: 20px!important;
+}
+.mi-1{
+    margin-left: 23px;
+  
+}
+
+.exp1{
+    font-size: 14px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    
+}
+.mi-2{
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.list-1{
+    margin-bottom: 10px;
+    list-style: none;
+    margin-left: 23px;
+    display: flex;
+    flex-direction: column;
+}
+.list-2{
+    margin-left: 40px;
+}
+
+.list-4{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.correo{
+    font-size: 14px;
+    margin: 0 auto;
+    margin-bottom: 4px;
+}
+.fa-solid{
+    margin-right: 2px;
+}
+h3{
+    padding: 0px!important;
+}
+.work{
+    padding: 0px!important;
+}
+h6{
+    font-size: 15px;
+    font-weight: bold;
+}
+.tecnologias{
+    font-size: 13px;
+}
+
